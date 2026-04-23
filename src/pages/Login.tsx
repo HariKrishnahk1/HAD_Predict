@@ -48,7 +48,7 @@ export default function Login() {
               <path d="M12 1v22m-7-18l14 14m0-14L5 19" />
             </svg>
           </div>
-          <h1 className="text-2xl font-bold tracking-[3px] text-foreground uppercase mb-1">Face Finder Pro</h1>
+          <h1 className="text-2xl font-bold tracking-[3px] text-foreground uppercase mb-1">HAD Crowd Ai Predictor</h1>
           <p className="text-cyan font-mono text-[10px] tracking-[2px] uppercase">Secure Login Gateway</p>
         </div>
 

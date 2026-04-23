@@ -52,7 +52,7 @@ export default function Register() {
         <div className="absolute top-0 right-0 w-8 h-8 border-t-2 border-r-2 border-cyan/30 m-4" />
         
         <div className="text-center mb-8 mt-2">
-          <h1 className="text-2xl font-bold tracking-[3px] text-foreground uppercase mb-1">Face Finder Pro</h1>
+          <h1 className="text-2xl font-bold tracking-[3px] text-foreground uppercase mb-1">HAD Crowd Ai Predictor</h1>
           <p className="text-cyan font-mono text-[10px] tracking-[2px] uppercase">New Operator Registration</p>
         </div>
 
