@@ -349,7 +349,7 @@ export function usePersonDetection({ type, url }: UsePersonDetectionProps) {
         const img = mediaRef.current;
         if (img instanceof HTMLImageElement && url) {
            img.crossOrigin = "anonymous";
-           const proxyUrl = `http://localhost:3001/api/proxy-stream?url=${encodeURIComponent(url)}`;
+           const proxyUrl = `https://had-predict-6txz.onrender.com/api/proxy-stream?url=${encodeURIComponent(url)}`;
            img.src = proxyUrl;
            addLog(`IP Camera started: ${url}`, 'info');
         }
